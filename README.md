@@ -1,2 +1,2 @@
 # BloodInMinecraft
-BloodInMinecraft allow to spawn blood when pvp
+BloodInMinecraft allow to spawn blood when entity getting damage
